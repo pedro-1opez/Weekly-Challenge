@@ -1,0 +1,19 @@
+================================= ALGORITHM =======================================
+is the format of the file correct:
+    while the file content is not empty:
+         read a line
+         if the line is a number:
+              perform the operation and keep the result
+         else:
+              the operation cannot be performed
+              the program ends
+         
+         Read the next line
+         if the line is a valid operator:
+	          save it for the next iteration
+         else:
+              the operation cannot be performed
+              the program ends
+otherwise:
+    it cannot be read
+===================================================================================
